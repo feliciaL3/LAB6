@@ -29,4 +29,7 @@ This way we can find out the money from the day in total, and the total money of
 		Controller — operates with model and view packages.
 
 		
-	SOLID
+	DRY, KISS, SOLID
+	
+Open-closed principle: Extending the functionality of your software shouldn’t require you to modify (a lot) of existing code. If you have to modify (several) existing files to extend functionality, you are probably not following the open-closed principle. To satisfy the open-closed principle, think about appropriate design patterns for your problem.
+Liskov substitution principle: The behavior of subclasses should not deviate from the behavior that is implemented by the superclass. So, when you are overriding a method of the superclass, make sure that you are not breaking the invariants of the superclass. If that would be the case, use of inheritance is not appropriate.
