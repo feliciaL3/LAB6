@@ -21,5 +21,10 @@ This way we can find out the money from the day in total, and the total money of
 
 		The implemented architectural pattern : MVC
 		
+		Model —  represented by all the classes from the previous laboratory.
+		View — Defines the presentation of the application
+		Controller — operates with model and view packages.
+
+		
 	SOLID
 # LAB6
