@@ -19,6 +19,9 @@ This way we can find out the money from the day in total, and the total money of
 
 *One day, randomly generated, the company can close and the simulation can stop then.
 
+# LAB6
+
+
 		The implemented architectural pattern : MVC
 		
 		Model —  represented by all the classes from the previous laboratory.
@@ -27,4 +30,3 @@ This way we can find out the money from the day in total, and the total money of
 
 		
 	SOLID
-# LAB6
